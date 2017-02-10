@@ -1,0 +1,1 @@
+C:\Users\Flynn\Downloads\opencv\build\x64\vc14\bin\opencv_createsamples.exe -info positive.txt -vec samples.vec -w 63 -h 63 PAUSE

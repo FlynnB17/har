@@ -1,0 +1,1 @@
+C:\Users\Flynn\Downloads\opencv\build\x64\vc14\bin\opencv_traincascade.exe -data data/ -vec 65whsamples.vec -bg negative.txt -nubstages 20 -minHitRate 0.900 -maxFalseAlarmRate 0.5 -numPos 500 -numNeg 1000 -w 65 -h 65 -precalcValBuffSize 1024 -precalcIdxBufSize 1024
